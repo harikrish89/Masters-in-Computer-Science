@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include "circular.c"
+#include "circular.h"
+#include "ducksinterface.h"
+#include "ducksinterface.c"
+#include "globals.h"
+#include "list.c"
+#include "list.h"
+
+void main()
+{
+int n,m;
+scanf("%d %d",&n, &m);
+printf("%d %d",n m);
+}

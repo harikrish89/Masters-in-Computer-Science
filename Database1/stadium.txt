@@ -1,0 +1,33 @@
+Arrowhead Stadium,MO,Kansas City,Outdoors,Grass
+AT&T Stadium,TX,Arlington,Half,Matrix Turf
+Bank of America Stadium,NC,Charlotte,Outdoors,Grass
+Candlestick Park,CA,San Francisco,Outdoors,Grass
+CenturyLink Field,WA,Seattle,Outdoors,Field Turf
+Edward Jones Dome,MO,St. Louis,Dome,Astroplay
+EverBank Field,FL,Jacksonville,Outdoors,Grass
+FedExField,MD,Landover,Outdoors,Grass
+FirstEnergy Stadium,OH,Cleveland,Outdoors,Grass
+Ford Field,MI,Detroit,Dome,Field Turf
+Georgia Dome,GA,Atlanta,Dome,Field Turf
+Gillette Stadium,MA,Foxborough,Outdoors,Field Turf
+Heinz Field,PA,Pittsburgh,Outdoors,Grass
+Lambeau Field,WI,Green Bay,Outdoors,Grass
+Lincoln Financial Field,PA,Philadelphia,Outdoors,Grass
+Louisiana Superdome,LA,New Orleans,Dome,Sport Turf
+LP Field,TN,Nashville,Outdoors,Grass
+Lucas Oil Stadium,IN,Indianapolis,Retractable Roof,Field Turf
+M&T Bank Stadium,MD,Baltimore,Outdoors,Sport Turf
+Mall of America Field,MN,Minneapolis,Dome,Sport Turf
+MetLife Stadium,NJ,East Rutherford,Outdoors,Field Turf
+O.co Coliseum,CA,Oakland,Outdoors,Grass
+Paul Brown Stadium,OH,Cincinnati,Outdoors,Field Turf
+Qualcomm Stadium,CA,San Diego,Outdoors,Grass
+Ralph Wilson Stadium,NY,Orchard Park,Outdoors,A-turf
+Raymond James Stadium,FL,Tampa,Outdoors,Grass
+Reliant Stadium,TX,Houston,Retractable Roof,Grass
+Rogers Centre,ON,Toronto,Dome,Astroplay
+Soldier Field,IL,Chicago,Outdoors,Grass
+Sports Authority Field at Mile High,CO,Denver,Outdoors,Grass
+Sun Life Stadium,FL,Miami Gardens,Outdoors,Grass
+University of Phoenix Stadium,AZ,Glendale,Outdoors,Grass
+Wembley Stadium,UK,London,Outdoors,Grass

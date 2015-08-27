@@ -1,0 +1,1 @@
+load data infile matches.csv into table matches fields terminated by ',' (Sections, Day, Date1, Venue, Winner, Loser, Points_of_Winner, Points_of_Loser, Yards_of_Winner, Yards_of_Loser, Attendance)

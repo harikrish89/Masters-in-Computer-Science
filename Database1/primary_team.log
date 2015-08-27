@@ -1,0 +1,51 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Sun Nov 9 22:35:04 2014
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   control_primary_team.txt
+Data File:      primary_team.csv
+  Bad File:     primary_team.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table PRIMARY_TEAM, loaded from every logical record.
+Insert option in effect for this table: INSERT
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+STADIUM_NAME                        FIRST     *   ,       CHARACTER            
+PRIMARY_TEAM                         NEXT     *   ,       CHARACTER            
+
+Record 1: Rejected - Error on table PRIMARY_TEAM.
+ORA-02291: integrity constraint (OPS$HJANAKIR.FK_SNAME) violated - parent key not found
+
+
+Table PRIMARY_TEAM:
+  31 Rows successfully loaded.
+  1 Row not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  33024 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            32
+Total logical records rejected:         1
+Total logical records discarded:        0
+
+Run began on Sun Nov 09 22:35:04 2014
+Run ended on Sun Nov 09 22:35:04 2014
+
+Elapsed time was:     00:00:00.20
+CPU time was:         00:00:00.04

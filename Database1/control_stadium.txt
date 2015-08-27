@@ -1,0 +1,1 @@
+load data infile stadium.dat into table stadium fields terminated by ',' (Stadium_Name, State, City, Roof, Surface)

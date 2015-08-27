@@ -1,0 +1,1 @@
+load data infile primary_team.csv into table primary_team fields terminated by ',' (Stadium_Name, Primary_Team)

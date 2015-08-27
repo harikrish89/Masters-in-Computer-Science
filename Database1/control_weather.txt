@@ -1,0 +1,1 @@
+load data infile weather.csv into table weather fields terminated by ',' (Date1, City, Weather)

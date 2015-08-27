@@ -1,0 +1,22 @@
+/*******************************************************/
+/* circular.h                                              */
+/*                                                     */
+/*******************************************************/
+#ifndef _list
+#define _list
+#include "globals.h"
+typedef struct node node, *list;
+struct node { generic_ptr *datapointer; list *next; };
+extern status allocate_node( list *p_L, generic_ptr data);
+extern void free_node(list *p_L);
+extern status init_circ_list(list *p_L);
+extern bool empty_circ_list(list L);
+extern status circ_insert(list *p_L, generic_ptr data);
+extern status circ_append(list *p_L, generic_ptr data);
+extern status circ_delete(list *p_L, generic_ptr *p_data);
+extern status circ_delete_node(list *p_L, list node);
+extern status circ_traverse(list L, status (*p_func_f) () );
+extern list circ_list_iterator(list L, list lastreturn);
+extern int circ_length(list L);
+extern list nth_node(list L, number);
+#endif

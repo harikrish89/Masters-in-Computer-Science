@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Sun Nov 9 22:29:53 2014
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   control_matches.txt
+Data File:      matches.csv
+  Bad File:     matches.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MATCHES, loaded from every logical record.
+Insert option in effect for this table: INSERT
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SECTIONS                            FIRST     *   ,       CHARACTER            
+DAY                                  NEXT     *   ,       CHARACTER            
+DATE1                                NEXT     *   ,       CHARACTER            
+VENUE                                NEXT     *   ,       CHARACTER            
+WINNER                               NEXT     *   ,       CHARACTER            
+LOSER                                NEXT     *   ,       CHARACTER            
+POINTS_OF_WINNER                     NEXT     *   ,       CHARACTER            
+POINTS_OF_LOSER                      NEXT     *   ,       CHARACTER            
+YARDS_OF_WINNER                      NEXT     *   ,       CHARACTER            
+YARDS_OF_LOSER                       NEXT     *   ,       CHARACTER            
+ATTENDANCE                           NEXT     *   ,       CHARACTER            
+
+
+Table MATCHES:
+  267 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 181632 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           267
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Sun Nov 09 22:29:53 2014
+Run ended on Sun Nov 09 22:29:53 2014
+
+Elapsed time was:     00:00:00.29
+CPU time was:         00:00:00.04

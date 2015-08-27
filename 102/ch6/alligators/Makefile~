@@ -1,0 +1,2 @@
+ducks:	ducksinterface.c	ducksinterface.h	globals.h	clist.c	clist.h	main.c
+	gcc	-ansi	-pedantic	-Wall	main.c	clist.c	ducksinterface.c	-o	ducks

@@ -1,0 +1,19 @@
+
+			 printing after 12 Donuts were Consumed
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TYPE OF DONUT PLAIN      |	 1
+TYPE OF DONUT JELLY      |	 2 |	 4  |	 6 |	 7
+TYPE OF DONUT COCONUT    |	 2 |	 4
+TYPE OF DONUT HONEY DIP  |	 2 |	 4  |	 6 |	 7  |	 9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+			 printing after 12 Donuts were Consumed
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TYPE OF DONUT PLAIN      |	 3  |	 5  |	 7 |	 9  |	 11
+TYPE OF DONUT JELLY      |	 11 |	 13
+TYPE OF DONUT COCONUT    |	 5  |	 7  |	 9 |	 11
+TYPE OF DONUT HONEY DIP  |	 11
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

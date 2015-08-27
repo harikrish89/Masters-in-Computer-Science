@@ -1,0 +1,1 @@
+load data infile teams.dat append into table teams fields terminated by ',' (Team_Name, Coach, Conference, Division)

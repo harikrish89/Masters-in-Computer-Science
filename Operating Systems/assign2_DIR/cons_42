@@ -1,0 +1,49 @@
+Consumer 42 finished collecting dozen#: 0  
+Consumer thread#: 42 , time: Thu Oct 17 21:11:38 2013
+, Dozen#: 0	 plain 	 jelly 	 coconut 	 honey-dip 	
+	 115 		 132 		   		 102 	
+	   		 133 		   		 103 	
+	   		 134 		   		 104 	
+	   		 135 		   		 105 	
+	   		 136 		   		 106 	
+	   		 137 		   		   	
+	   		   		   		   	
+Consumer 42 finished  collecting all 10 dozen donuts  
+Consumer 42 finished collecting dozen#: 0  
+Consumer thread#: 42 , time: Thu Oct 17 22:23:34 2013
+, Dozen#: 0	 plain 	 jelly 	 coconut 	 honey-dip 	
+	 88 		 87 		 95 		 66 	
+	 120 		 89 		 130 		 91 	
+	 121 		   		   		 92 	
+	 130 		   		   		 100 	
+	   		   		   		   	
+Consumer 42 finished  collecting all 10 dozen donuts  
+Consumer 42 finished collecting dozen#: 0  
+Consumer thread#: 42 , time: Thu Oct 17 22:23:50 2013
+, Dozen#: 0	 plain 	 jelly 	 coconut 	 honey-dip 	
+	 78 		 106 		 66 		 63 	
+	 112 		 116 		 91 		 76 	
+	   		 121 		 105 		 115 	
+	   		   		 106 		   	
+	   		   		   		   	
+Consumer 42 finished  collecting all 10 dozen donuts  
+Consumer 42 finished collecting dozen#: 0  
+Consumer thread#: 42 , time: Thu Oct 17 22:24:54 2013
+, Dozen#: 0	 plain 	 jelly 	 coconut 	 honey-dip 	
+	 68 		 78 		 57 		 70 	
+	   		 95 		 126 		 72 	
+	   		 118 		   		 92 	
+	   		   		   		 111 	
+	   		   		   		 112 	
+	   		   		   		 132 	
+	   		   		   		   	
+Consumer 42 finished  collecting all 10 dozen donuts  
+Consumer 42 finished collecting dozen#: 0  
+Consumer thread#: 42 , time: Thu Oct 17 22:25:10 2013
+, Dozen#: 0	 plain 	 jelly 	 coconut 	 honey-dip 	
+	 76 		 70 		 66 		 75 	
+	 83 		 72 		   		 76 	
+	 90 		 76 		   		 83 	
+	   		 83 		   		 91 	
+	   		   		   		   	
+Consumer 42 finished  collecting all 10 dozen donuts  

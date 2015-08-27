@@ -1,0 +1,26 @@
+
+
+
+error
+
+->->
+extern status circ_delete_node(list *p_L, list node) {
+list L;
+if (empty_circ_list(*p_L) == TRUE ) return ERROR;
+if (node == NEXT(node)) *p_L == NULL;
+else{
+for(L = NEXT(*p_L); L != *p_L && NEXT(L) != node; L = NEXT(L));
+if(NEXT(L) != node) return ERROR;
+NEXT(L) = NEXT(node);
+if(node == *p_L) *p_L = L;
+}
+free_node (&node);
+return OK;
+}
+
+extern status circ_delete(list *p_L, generic_ptr *p_data) {
+if(empty_circ_list(*p_L)) return ERROR;
+*p_data = DATA (NEXT(*p_L));
+return circ_delete_node(p_L, NEXT(*p_L));
+}
+->->
